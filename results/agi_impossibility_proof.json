@@ -1,0 +1,16 @@
+{
+  "title": "AGI Impossibility: Experimental Proof",
+  "experiments": {
+    "pattern_overflow": {
+      "explosion_factor": 2.0,
+      "demonstrates": "Without constraints, AI finds patterns in pure noise"
+    },
+    "human_filter": {
+      "total_impossible_patterns": 12,
+      "ai_accepted_impossible": 9,
+      "ai_false_acceptance_rate": 75.0,
+      "human_false_acceptance_rate": 0,
+      "demonstrates": "AI lacks the evolutionary filter that prevents accepting impossible patterns"
+    }
+  }
+}
